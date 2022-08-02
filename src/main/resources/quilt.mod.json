@@ -1,12 +1,12 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "com.example",
-		"id": "example_mod",
+		"group": "io.github.SlurpySmurf09",
+		"id": "more_slime_blocks",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Name",
-			"description": "A short description of your mod.",
+			"name": "More Slime Blocks",
+			"description": "Adds more slime blocks (duh)",
 			"contributors": {
 				"Your name here": "Owner"
 			},
